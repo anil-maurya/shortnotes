@@ -160,23 +160,6 @@
 
 
 
-## Topics to cover
-
-Why is not a number a number?
-
-typeof NaN // 'number' WTF!?
-
-[ ] '==' vs '==='
-
-A primitive is not a object and has no mehtod of its own 
-
-“You said primitives have no methods but then explain how `'abc'.length` works!”
-
-[ ] Closure 
-
-Declarative vs imperative programming
-Functional vs object-oriented programming
-
 
 [ ] System Design
 
