@@ -1,4 +1,4 @@
-# Modules in JavaScripts
+# Modules in JavaScript
 
 A module is a reusable piece of code that encapsulates implementation details and exposes a public API so it can be easily loaded and used by other code.
 
@@ -12,9 +12,7 @@ Modules can load each other and use special directives `export` and `import` to 
 
 
 
-
-
-Veriiety of ways to orgganize code into modules.
+Ways to organize code into modules.
 
 - AMD (Asynchronous module definition)
 - UMD -  one more module system, suggested as a universal one, compatible with AMD and CommonJS.
@@ -29,6 +27,7 @@ Veriiety of ways to orgganize code into modules.
 
 
 ## Creating Modules
+
 
 ### Named exports(several per module)
 
